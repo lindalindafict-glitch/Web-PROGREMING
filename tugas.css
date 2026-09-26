@@ -1,0 +1,107 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f8;
+    color: #222222;
+}
+
+header {
+    background-color: #dbe7f6;
+    padding: 24px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav {
+    text-align: center;
+    padding: 15px;
+    background-color: white;
+}
+
+nav a {
+    color: #1f4e79;
+    text-decoration: none;
+    margin: 0 5px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+main {
+    width: 90%;
+    max-width: 1100px;
+    margin: 24px auto;
+}
+
+.card {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 16px;
+    border: 1px solid #dddddd;
+    border-radius: 8px;
+}
+
+.featured {
+    border: 2px solid #b8cce4;
+}
+
+figure {
+    text-align: center;
+}
+
+figure img {
+    border-radius: 8px;
+}
+
+figcaption {
+    margin-top: 8px;
+    color: #666666;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th,
+td {
+    border: 1px solid #dddddd;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #dbe7f6;
+}
+
+footer {
+    background-color: #dbe7f6;
+    padding: 16px;
+    text-align: center;
+    margin-top: 24px;
+}
+
+footer a {
+    color: #1f4e79;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid #dddddd;
+}
+.data-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 16px;
+    background-color: white;
+}
